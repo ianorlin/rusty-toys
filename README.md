@@ -1,2 +1,3 @@
 # rusty-toys
-toy programs to learn rust
+Toy programs to learn rust. 
+
